@@ -4,9 +4,12 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1"
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-scripts": "5.0.1",
+    "@google/generative-ai": "^0.2.1",
+    "lucide-react": "^0.344.0",
+    "react-webcam": "^7.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
